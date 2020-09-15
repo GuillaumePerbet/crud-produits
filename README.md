@@ -18,6 +18,6 @@ Products are defined by:
 - Buy ticket photo and pdf version of user manual
 
 ## Try it
-Application is online at products.guillaumeperbet.fr
-Email: admin@login.com
-Password: 12345
+Application is online at products.guillaumeperbet.fr with connection parameters:
+- Email: admin@login.com
+- Password: 12345
